@@ -1,0 +1,11 @@
+{
+  "name": "maybeReact",
+  "version": "0.0.0",
+  "private": false,
+  "author": "KoeSeph <koesavant@gmail.com>",
+  "description": "maybeReact",
+  "dependencies": {
+    "nodemon" : "*",
+    "express" : "*"
+  }
+}
